@@ -12,6 +12,11 @@ Hi there 👋, I am Nico
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=nicolasperezdeo&show_icons=true&hide=contribs)](https://github-readme-stats.vercel.app/api?username=nicolasperezdeo&show_icons=true&hide=contribs)
 
+<div align="center">
+<a href="mailto:nicolasperezdeo@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/GalBenZvi/GalBenZvi/main/icons/gmail.png" width="32" height="32" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nicolasperezdeolaguer/" target="_blank"><img src="https://raw.githubusercontent.com/GalBenZvi/GalBenZvi/main/icons/linkedin.png" width="32" height="32" /></a>
+</div>
+
 <!--
 **nicolasperezdeo/nicolasperezdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
