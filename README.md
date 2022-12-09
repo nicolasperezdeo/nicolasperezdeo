@@ -59,8 +59,8 @@
 </p>
 
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nico's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nicolasperezdeo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Nico's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nicolasperezdeo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 - 🔆 Currently living in Hamburg
 
