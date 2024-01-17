@@ -49,7 +49,7 @@
 </p>
 
 
-[![Nico's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nicolasperezdeo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nico's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolasperezdeo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 - 🔆 Currently living in Hamburg
